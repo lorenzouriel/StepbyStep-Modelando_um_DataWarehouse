@@ -1,5 +1,5 @@
 # StepbyStep-Modelando_um_DataWarehouse
-Mostrarei o caminho para a modelagem de um DW, desde a sua criação e modelagem até a exibição de relatórios!
+**Mostrarei o caminho para a modelagem de um DW, desde a sua criação e modelagem até a exibição de relatórios.**
 
 **Passos para a criação de DW:**
 
