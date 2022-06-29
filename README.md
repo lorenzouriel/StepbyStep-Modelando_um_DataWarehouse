@@ -1,6 +1,7 @@
 # StepbyStep-Modelando_um_DataWarehouse
 Mostrarei o caminho para a modelagem de um DW, desde a sua criação e modelagem até a exibição de relatórios!
 Passos para a criação de DW:
+
 **1 - Entrevistas**
  - É o passo onde conversamos com os interessados no DW e analisamos O QUE e COMO vão querer analisar os dados; 
  - Identificamos também as bases de dados de origem, de onde podemos retiras os dados.
