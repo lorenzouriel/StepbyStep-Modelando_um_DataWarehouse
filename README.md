@@ -5,17 +5,17 @@
 
 **1 - Entrevistas**
  - É o passo onde conversamos com os interessados no DW e analisamos O QUE e COMO vão querer analisar os dados; 
- - Identificamos também as bases de dados de origem, de onde podemos retiras os dados.
+ - Identificamos também as bases de dados de origem, de onde iremos retirar os dados.
  
 **2 - Matriz Dimensão x Indicador** 
- - Nesse passo colocamos as informações adiquiridas nas entrevistas em uma Matriz, essa matriz vai possuir indicadores e dimensões: Na vertical da matriz teremos "O que quero analisar? - Indicador", já na Horizontal "Como quero analisar? - Dimensão";
+ - Nesse passo colocamos as informações adquiridas nas entrevistas em uma Matriz, essa matriz vai possuir indicadores e dimensões: Na vertical da matriz teremos "O que quero analisar? - Indicador", já na Horizontal "Como quero analisar? - Dimensão";
  - Os indicadores que possuem os mesmos cruzamentos são chamados de tabelas de fato.
  
 **3 - Modelagem do Data Warehouse**
-- Aqui criamos e construímos as tabelas do DW com base na Matriz Dimensão x Indicador, arrumamos os relacionamentos, campos e constraints.
+- Aqui criamos e construímos as tabelas do DW com base na Matriz Dimensão x Indicador, teremos as tabelas de dimensão e tabelas de fato, arrumamos os relacionamentos, campos e constraints.
 
 **4 - Carga do DW**
-- Nesse passo já precisamos ter noção das fontes de dados para realizar o E.T.L;
+- Nesse passo já precisamos ter noção das fontes de dados origem para realizar o E.T.L;
 - E.T.L (Extract-Tranform-Load): Aqui realizamos a importação do dados de origem para o destino. Como o próprio nome já diz, extraímos de uma origem, transformamos antes de jogar no destino e carregamos no destino.
 - Algumas técnicas de transformações são: Limpeza de Dados, Lookup, Union, Funções de transformação, ODS (Tabelas Auxiliares), etc..
 
