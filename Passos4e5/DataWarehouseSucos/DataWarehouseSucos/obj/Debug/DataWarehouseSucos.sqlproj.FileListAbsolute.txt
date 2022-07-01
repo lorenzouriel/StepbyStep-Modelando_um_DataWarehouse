@@ -1,0 +1,9 @@
+C:\temp_vm\projetos\DataWarehouseSucos\DataWarehouseSucos\bin\Debug\DataWarehouseSucos.dacpac
+C:\temp_vm\projetos\DataWarehouseSucos\DataWarehouseSucos\bin\Debug\DataWarehouseSucos.dll
+C:\temp_vm\projetos\DataWarehouseSucos\DataWarehouseSucos\bin\Debug\DataWarehouseSucos.pdb
+C:\temp_vm\projetos\DataWarehouseSucos\DataWarehouseSucos\obj\Debug\DataWarehouseSucos.dll
+C:\temp_vm\projetos\DataWarehouseSucos\DataWarehouseSucos\obj\Debug\DataWarehouseSucos.pdb
+C:\temp_vm\projetos\DataWarehouseSucos\DataWarehouseSucos\obj\Debug\Model.xml
+C:\temp_vm\projetos\DataWarehouseSucos\DataWarehouseSucos\obj\Debug\refactor.xml
+C:\temp_vm\projetos\DataWarehouseSucos\DataWarehouseSucos\obj\Debug\postdeploy.sql
+C:\temp_vm\projetos\DataWarehouseSucos\DataWarehouseSucos\obj\Debug\predeploy.sql
